@@ -17,3 +17,6 @@ This is a basic Stopwatch application built with HTML, CSS, and JavaScript. It f
 ## License
 
 This project is licensed under the MIT License.
+
+## Deployment
+https://shreyapalanivelcodes.github.io/PRODIGY_WD_02/
